@@ -1,0 +1,15 @@
+.headerContainer {
+}
+
+.mainContainer {
+	height: calc(100vh - 85px);
+}
+
+.footerContainer {
+	height: 30px;
+	background: #e8e8e8;
+	position: fixed;
+	margin-top: 0px;
+	width: 100%;
+	bottom: 0;
+}
